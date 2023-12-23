@@ -1,0 +1,961 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp.*
+.pnp.js
+
+# dotenv environment variables file
+.env
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Jest coverage
+coverage/
+
+# Nuxt.js
+.nuxt/
+
+# Next.js
+out/
+
+# Webpack
+/dist/
+
+# Parcel
+.cache/
+
+# Storybook
+.storybook-out/
+
+# Puppeteer
+node_modules/
+.puppeteer/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Node-waf configuration
+.lock-wscript
+
+# Node.js precompiled binary
+*.node
+
+# Gatsby
+.cache/
+public/
+
+# 3D Objects Folder in Windows
+3D Objects/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeOutput.log
+CMakeTmp/
+
+# Compiled D objects and binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.out
+*.app
+
+# Binary cache
+*.bbl
+*.bblm
+*.blg
+*.blc
+
+# Typescript v1 declaration files
+typings/
+
+# Optional npm package files
+*.tgz
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+*.iwd
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# Yarn 2
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# .eslintcache
+.eslintcache
+
+# Serverless directories
+.serverless/
+
+# Redundant metadata
+*.bak
+*.backup
+*.sav
+*.save
+
+# MongoDB
+*.saslprep
+
+# Global Node.js modules folder
+/node_modules/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# node-waf configuration
+.lock-wscript
+
+# Shell binary
+*.sh
+
+# Puppeteer
+.puppeteer/
+
+# Pnpm
+.pnpm/
+
+# Yarn v2
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Nuxt.js
+.nuxt/
+
+# Next.js
+.next/
+
+# Storybook
+.storybook/
+
+# Cypress
+/cypress/screenshots
+/cypress/videos
+
+# Zeit Now
+.now/
+
+# AWS
+.aws/
+
+# Temp files
+*.tmp
+*.swp
+
+# OS-generated files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java classes
+*.class
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.dll
+*.so
+*.dylib
+*.exp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs
+*.log
+
+# Lock files
+lock-*
+
+# Native code
+build/
+
+# Dependency directories
+bin/
+lib/
+lib64/
+include/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Django development settings
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Flask development settings
+instance/
+.webassets-cache
+
+# Scrapy development settings
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# Python Installer
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PEP 541
+__pypackages__/
+
+# VS Code directories
+.vscode/
+
+# WSL
+.local/
+
+# .NET Scaffolding
+Scaffolding/
+
+# Compiled Python bytecode
+__pycache__/
+
+# Compiled Java classes
+*.class
+
+# Compiled Ruby bytecode
+*.com
+*.class
+*.dll
+*.exe
+*.ilk
+*.lib
+*.pdb
+*.so
+*.stub
+*.tmp
+*.dsym/
+
+# Compiled Golang binaries
+*.exe
+*.dll
+*.exe/
+*.dll/
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled MATLAB
+*.mat
+
+# Compiled Clojure
+*.class
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.tar.xz
+*.tar.lz
+*.tar.lzma
+*.tar.bz2
+*.tar.Z
+*.tar.zst
+*.tar.zstd
+*.tar.gz2
+*.tar.xz2
+*.tzst
+*.pdf
+
+# Pack files
+.pack
+
+# Package directories
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+pipfile.lock
+
+# poetry
+poetry.lock
+
+# pip-compile
+*.
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp.*
+.pnp.js
+
+# dotenv environment variables file
+.env
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Jest coverage
+coverage/
+
+# Nuxt.js
+.nuxt/
+
+# Next.js
+out/
+
+# Webpack
+/dist/
+
+# Parcel
+.cache/
+
+# Storybook
+.storybook-out/
+
+# Puppeteer
+node_modules/
+.puppeteer/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Node-waf configuration
+.lock-wscript
+
+# Node.js precompiled binary
+*.node
+
+# Gatsby
+.cache/
+public/
+
+# 3D Objects Folder in Windows
+3D Objects/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeOutput.log
+CMakeTmp/
+
+# Compiled D objects and binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.out
+*.app
+
+# Binary cache
+*.bbl
+*.bblm
+*.blg
+*.blc
+
+# Typescript v1 declaration files
+typings/
+
+# Optional npm package files
+*.tgz
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+*.iwd
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# Yarn 2
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# .eslintcache
+.eslintcache
+
+# Serverless directories
+.serverless/
+
+# Redundant metadata
+*.bak
+*.backup
+*.sav
+*.save
+
+# MongoDB
+*.saslprep
+
+# Global Node.js modules folder
+/node_modules/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# node-waf configuration
+.lock-wscript
+
+# Shell binary
+*.sh
+
+# Puppeteer
+.puppeteer/
+
+# Pnpm
+.pnpm/
+
+# Yarn v2
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Nuxt.js
+.nuxt/
+
+# Next.js
+.next/
+
+# Storybook
+.storybook/
+
+# Cypress
+/cypress/screenshots
+/cypress/videos
+
+# Zeit Now
+.now/
+
+# AWS
+.aws/
+
+# Temp files
+*.tmp
+*.swp
+
+# OS-generated files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java classes
+*.class
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.dll
+*.so
+*.dylib
+*.exp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs
+*.log
+
+# Lock files
+lock-*
+
+# Native code
+build/
+
+# Dependency directories
+bin/
+lib/
+lib64/
+include/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Django development settings
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Flask development settings
+instance/
+.webassets-cache
+
+# Scrapy development settings
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# Python Installer
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PEP 541
+__pypackages__/
+
+# VS Code directories
+.vscode/
+
+# WSL
+.local/
+
+# .NET Scaffolding
+Scaffolding/
+
+# Compiled Python bytecode
+__pycache__/
+
+# Compiled Java classes
+*.class
+
+# Compiled Ruby bytecode
+*.com
+*.class
+*.dll
+*.exe
+*.ilk
+*.lib
+*.pdb
+*.so
+*.stub
+*.tmp
+*.dsym/
+
+# Compiled Golang binaries
+*.exe
+*.dll
+*.exe/
+*.dll/
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled MATLAB
+*.mat
+
+# Compiled Clojure
+*.class
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.tar.xz
+*.tar.lz
+*.tar.lzma
+*.tar.bz2
+*.tar.Z
+*.tar.zst
+*.tar.zstd
+*.tar.gz2
+*.tar.xz2
+*.tzst
+*.pdf
+
+# Pack files
+.pack
+
+# Package directories
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+pipfile.lock
+
+# poetry
+poetry.lock
+
+# pip-compile
+*.
+
